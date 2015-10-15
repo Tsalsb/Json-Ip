@@ -1,2 +1,2 @@
 # Json-Ip
-I quick program to quickly pull down json data without an API key or Kerberos Auth
+A quick program to quickly pull down json data without an API key or Kerberos Auth
